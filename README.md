@@ -47,7 +47,7 @@ This is a browser-based text editor that runs as a single-page application (SPA)
 
 ## Deployment
 
-This application is deployed on Render. Visit [deployment link] to use the application.
+This application is deployed on Render. Visit [\[deployment link\] ](https://pwa-text-editor-73ca.onrender.com)to use the application.
 
 ## Contributing
 
